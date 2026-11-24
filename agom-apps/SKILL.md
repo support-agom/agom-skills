@@ -1,6 +1,6 @@
 ---
 name: agom-apps
-description: Génère ou adapte une application web pour qu'elle se déploie telle quelle sur AgomApps (https://agom.app), l'hébergement d'applications web d'Agom, en ajoutant à la racine du projet un fichier agomapps.yaml et, si besoin, un Dockerfile. À utiliser dès que l'utilisateur veut créer, adapter ou mettre en ligne une application web destinée à AgomApps ou agom.app, quelle que soit la stack (Node.js, Bun, Python, PHP, C#/.NET, Go, Java, Rust…). Keywords: deploy, hosting, AgomApps, agom.app, agomapps.yaml, Dockerfile, mise en ligne, hébergement.
+description: Génère ou adapte une application web pour qu'elle se déploie telle quelle sur AgomApps (https://agom.app), l'hébergement d'applications web d'Agom, en ajoutant à la racine du projet un fichier agomapps.yaml et, si besoin, un Dockerfile. À utiliser dès que l'utilisateur veut créer, adapter ou mettre en ligne une application web destinée à AgomApps ou agom.app, quelle que soit la stack (Node.js, Bun, Python, PHP, C#/.NET, Go, Java, Rust…). Mots-clés (keywords) deploy, hosting, AgomApps, agom.app, agomapps.yaml, Dockerfile, mise en ligne, hébergement.
 ---
 
 # AgomApps : générer une application web prête à déployer
